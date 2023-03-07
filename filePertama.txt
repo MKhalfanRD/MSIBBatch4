@@ -1,0 +1,11 @@
+Rincian Materi Kampus Merdek batch 4
+- HTML dan CSS
+- Javascript
+- Github
+- PHP
+- MySQL
+- Laravel
+
+Menambahkan file ke dalam github disebut degan adding (git add)
+selanjutnya menandai file yang disebut commit (git commit)
+setelah itu upload file yang disebut push (git push)
