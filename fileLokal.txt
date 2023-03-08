@@ -1,0 +1,3 @@
+ini adalah prose remote
+yang mana kita mengendalikan repository yang ada di dalam github
+dengan itu, kita dapat upload file atau kodingan dengan menggunakan lokal atau git bash di lokal kita
